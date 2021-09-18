@@ -4,7 +4,7 @@
 <br />
 <br />
 
-Hi there, I'm **Peter Tang**, a **IOT Engineering student** 🚀 from China.
+Hi there, I'm **Peter Tang**, a **IOT Engineering student** 🚀 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
@@ -36,4 +36,4 @@ Hi there, I'm **Peter Tang**, a **IOT Engineering student** 🚀 from China.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FOREillusion&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-⭐️ From [PETER TANG](https://github.com/FOREillusion)
+⭐️ From [Blog](https://github.com/FOREillusion)
