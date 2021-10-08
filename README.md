@@ -34,6 +34,6 @@ Hi there, I'm **Peter Tang**, a **IOT Engineering student** 🚀
 
 [![Peter's github stats](https://github-readme-stats.vercel.app/api?username=FOREillusion&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FOREillusion&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
