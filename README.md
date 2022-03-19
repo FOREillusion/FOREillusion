@@ -14,7 +14,7 @@ Hi there, I'm **Peter Tang**, a **IOT Engineering student** 🚀
 - 🤔 My interests are with IOT, Computer vision, DevOps, Reinforcement Learning, etc..;
 - 💼 I’m pursuing a Bachelor's degree in IOT Engineering;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via mealyon@aliyun.com to reach me.
+- 📫 Please email via Peter_Towne@hotmail.com to reach me.
 
 
 **Languages and Tools:**  
