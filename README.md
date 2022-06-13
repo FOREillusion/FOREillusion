@@ -4,7 +4,7 @@
 <br />
 <br />
 
-Hi there, I'm **Peter Tang**, a **IOT Engineering student** 🚀 
+Hi there, I'm **Peter Tang**, a **SDE** 🚀 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
@@ -32,7 +32,7 @@ Hi there, I'm **Peter Tang**, a **IOT Engineering student** 🚀
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-[![Peter's github stats](https://github-readme-stats.vercel.app/api?username=FOREillusion&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Peter's github stats](https://github-readme-stats.vercel.app/api?username=FOREillusion&show_icons=true&theme=vue-dark&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
