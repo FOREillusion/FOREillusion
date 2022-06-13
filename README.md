@@ -33,7 +33,7 @@ Hi there, I'm **Peter Tang**, a **SDE** 🚀
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 [![Peter's github stats](https://github-readme-stats.vercel.app/api?username=FOREillusion&show_icons=true&theme=vue-dark&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FOREillusion&show_icons=true&theme=vue-dark&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FOREillusion&theme=vue-dark&hide=javascript,html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
